@@ -76,6 +76,8 @@ This class is a helper for generating the application package for the user. It p
 process, wrapping all modules/providers.
 
 See [package docs](docs/package.md) for a detailed documentation and examples.
+##WORKAROUND FOR THE DIGITAL ENVELOPES
+export NODE_OPTIONS=--openssl-legacy-provider
 
 ## TODO
 
